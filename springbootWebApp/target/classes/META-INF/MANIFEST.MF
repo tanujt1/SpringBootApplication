@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootWebApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tanuj
+Implementation-Vendor-Id: com.springBootWebApp
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/springbootWe
+ bApp/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
